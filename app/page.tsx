@@ -49,7 +49,7 @@ export default function Home() {
             nơi lưu trữ, các dữ liệu từ game Otherworld Legends
           </h1>
           <p className="mt-6 text-lg max-w-prose text-gray-100">
-            Tip, Trick, Dữ liệu, Hướng dẫn, và nhiều hơn nữa...
+            Tip, Trick, Dữ liệu, Hướng dẫn, Data và nhiều hơn nữa...
           </p>
           <div className="flex flex-col sm:flex-row gap-4 mt-6">
             <Link href='/tim-kiem' className={`grow basis-0 ${buttonVariants()}`}>Tìm hiểu thêm</Link>
