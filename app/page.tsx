@@ -33,7 +33,7 @@ export default function Home() {
         <div className="flex-col items-center justify-center ">
           <h1 className="text-xl md:text-4xl lg:text-4xl font-bold text-white text-center pt-5">
             <Typewriter
-              words={['Yo, chào mừng đã đến chốn khỉ ho cò sủa!']}
+              words={['Welcome to Otherworld Legends Wiki']}
               loop={true}
               cursor
               cursorStyle="_"
