@@ -44,7 +44,7 @@ export default function Home() {
             />
           </h1>
           <MaxWidthWrapper>
-      <Button className="mx-auto mt-10 mb-5" variant="ghost" size="icon" onClick={() => { window.open('https://dash.cloudflare.com/66b3ee9dcac35b8919e92ef85c79a29b/r2/default/buckets/morph-workshop/objects/mods%252F24325758-9ebe-4fb5-ac4b-0513e165f667%252Ffiles%252F1756301704673542900-icons8-google-drive-ios-17-filled.zip/details', '_blank') }}>Xịn chào</Button>
+      <Button className="mx-auto mt-10 mb-5" variant="ghost" size="icon" onClick={() => { window.open('https://assets.morphworkshop.com/mods/ee2b9b1d-6450-405e-a0ab-c9672051b33c/files/1755773651073915700-kotlin-compiler-2.2.0.zip', '_blank') }}>Xịn chào</Button>
           
         <div className="pt-5 mx-auto text-center flex flex-col items-center max-w-3xl">
           <h1 className="text-2xl font-bold tracking-tight text-white sm:text-4xl">
