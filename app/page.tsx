@@ -60,7 +60,7 @@ export default function Home() {
         </div>
         
       </section>
-      <Button className="mx-auto mt-10 mb-5" variant="ghost" size="icon" onClick={() => { window.open(modLink, '_blank') }}>
+      <Button className="mx-auto mt-10 mb-5" variant="ghost" size="icon" onClick={() => { window.open('https://dash.cloudflare.com/66b3ee9dcac35b8919e92ef85c79a29b/r2/default/buckets/morph-workshop/objects/mods%252F24325758-9ebe-4fb5-ac4b-0513e165f667%252Ffiles%252F1756301704673542900-icons8-google-drive-ios-17-filled.zip/details', '_blank') }}>
       <Image src="https://assets.morphworkshop.com/mods/24325758-9ebe-4fb5-ac4b-0513e165f667/images/1756301859040888800-hero-mobile-1756301858942.jpg" alt="20" width={200} height={200} />
       <Separator className="bg-gray-700 w-[30vw] mx-auto"/>
       <section className="border-t ">
