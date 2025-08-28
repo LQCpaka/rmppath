@@ -4,6 +4,7 @@ import MaxWidthWrapper from "@/components/MaxWidthWrapper";
 import {  buttonVariants } from "@/components/ui/button";
 import { Separator } from "@/components/ui/separator";
 import { ArrowDownToLine, CheckCircle2, SettingsIcon } from "lucide-react";
+import Image from "next/image";
 import Link from "next/link";
 import { Typewriter } from "react-simple-typewriter";
 
@@ -59,9 +60,8 @@ export default function Home() {
         </div>
         
       </section>
-
+      <Image src="https://assets.morphworkshop.com/mods/24325758-9ebe-4fb5-ac4b-0513e165f667/images/1756301859040888800-hero-mobile-1756301858942.jpg" alt="20" width={200} height={200} />
       <Separator className="bg-gray-700 w-[30vw] mx-auto"/>
-
       <section className="border-t ">
         <MaxWidthWrapper className="py-20">
           <div className="grid grid-cols-1 gap-y-12 sm:grid-cols-3 sm:gap-x-6 lg:grid-cols-3 lg:gap-x-8 lg:gap-y-0">
